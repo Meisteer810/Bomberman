@@ -1,0 +1,980 @@
+fileFormatVersion: 2
+guid: 2bcd71e899d15724db522b638ac803be
+timeCreated: 1457096793
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bob_omb_0
+    21300002: bob_omb_1
+    21300004: bob_omb_2
+    21300006: bob_omb_3
+    21300008: bob_omb_4
+    21300010: bob_omb_5
+    21300012: bob_omb_6
+    21300014: bob_omb_7
+    21300016: bob_omb_8
+    21300018: bob_omb_9
+    21300020: bob_omb_10
+    21300022: bob_omb_11
+    21300024: bob_omb_12
+    21300026: bob_omb_13
+    21300028: bob_omb_14
+    21300030: bob_omb_15
+    21300032: bob_omb_16
+    21300034: bob_omb_17
+    21300036: bob_omb_18
+    21300038: bob_omb_19
+    21300040: bob_omb_20
+    21300042: bob_omb_21
+    21300044: bob_omb_22
+    21300046: bob_omb_23
+    21300048: bob_omb_24
+    21300050: bob_omb_25
+    21300052: bob_omb_26
+    21300054: bob_omb_27
+    21300056: bob_omb_28
+    21300058: bob_omb_29
+    21300060: bob_omb_30
+    21300062: bob_omb_31
+    21300064: bob_omb_32
+    21300066: bob_omb_33
+    21300068: bob_omb_34
+    21300070: bob_omb_35
+    21300072: bob_omb_36
+    21300074: bob_omb_37
+    21300076: bob_omb_38
+    21300078: bob_omb_39
+    21300080: bob_omb_40
+    21300082: bob_omb_41
+    21300084: bob_omb_42
+    21300086: bob_omb_43
+    21300088: bob_omb_44
+    21300090: bob_omb_45
+    21300092: bob_omb_46
+    21300094: bob_omb_47
+    21300096: bob_omb_48
+    21300098: bob_omb_49
+    21300100: bob_omb_50
+    21300102: bob_omb_51
+    21300104: bob_omb_52
+    21300106: bob_omb_53
+    21300108: bob_omb_54
+    21300110: bob_omb_55
+    21300112: bob_omb_56
+    21300114: bob_omb_57
+    21300116: bob_omb_58
+    21300118: bob_omb_59
+    21300120: bob_omb_60
+    21300122: bob_omb_61
+    21300124: bob_omb_62
+    21300126: bob_omb_63
+    21300128: bob_omb_64
+    21300130: bob_omb_65
+    21300132: bob_omb_66
+    21300134: bob_omb_67
+    21300136: bob_omb_68
+    21300138: bob_omb_69
+    21300140: bob_omb_70
+    21300142: bob_omb_71
+    21300144: bob_omb_72
+    21300146: bob_omb_73
+    21300148: bob_omb_74
+    21300150: bob_omb_75
+    21300152: bob_omb_76
+    21300154: bob_omb_77
+    21300156: bob_omb_78
+    21300158: bob_omb_79
+    21300160: bob_omb_80
+    21300162: bob_omb_81
+    21300164: bob_omb_82
+    21300166: bob_omb_83
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: bob_omb_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 157
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_omb_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 157
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_omb_2
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 157
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_omb_3
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 157
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_omb_4
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 157
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_omb_5
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 157
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_omb_6
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 157
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_omb_7
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 156
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_omb_8
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 174
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_omb_9
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 115
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_omb_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 136
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_omb_11
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 94
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_omb_12
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 115
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_omb_13
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 136
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_omb_14
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 94
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_omb_15
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 136
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_omb_16
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 115
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_omb_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 94
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_omb_18
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 136
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_omb_19
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 115
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_omb_20
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 94
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_omb_21
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 115
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_omb_22
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 136
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_omb_23
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 94
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_omb_24
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 115
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_omb_25
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 136
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_omb_26
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 94
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_omb_27
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 136
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_omb_28
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 115
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_omb_29
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 94
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_omb_30
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 136
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_omb_31
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 157
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_omb_32
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 115
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_omb_33
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 94
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_omb_34
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 93
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_omb_35
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 114
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_omb_36
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 136
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_omb_37
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 157
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_omb_38
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 135
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_omb_39
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 114
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_omb_40
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 93
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_omb_41
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 152
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_omb_42
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 131
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_omb_43
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 110
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_omb_44
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 158
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_omb_45
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 136
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_omb_46
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 94
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_omb_47
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 115
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_omb_48
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 165
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_omb_49
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 143
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_omb_50
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 122
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_omb_51
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 101
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_omb_52
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 144
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_omb_53
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 95
+        width: 26
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_omb_54
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 123
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_omb_55
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 102
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_omb_56
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 66
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_omb_57
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 66
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_omb_58
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 66
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_omb_59
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 70
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_omb_60
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 70
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_omb_61
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 70
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_omb_62
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 49
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_omb_63
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 49
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_omb_64
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 49
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_omb_65
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 33
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_omb_66
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 49
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_omb_67
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 49
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_omb_68
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 49
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_omb_69
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 32
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_omb_70
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 32
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_omb_71
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 32
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_omb_72
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 39
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_omb_73
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 39
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_omb_74
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 28
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_omb_75
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 28
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_omb_76
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 28
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_omb_77
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 16
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_omb_78
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 16
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_omb_79
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 16
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_omb_80
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 23
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_omb_81
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 8
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_omb_82
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 8
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_omb_83
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 8
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

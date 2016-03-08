@@ -1,0 +1,980 @@
+fileFormatVersion: 2
+guid: 76249a1d346e85144963b890dc913975
+timeCreated: 1457092213
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "Mu\xF1ecos_0"
+    21300002: "Mu\xF1ecos_1"
+    21300004: "Mu\xF1ecos_2"
+    21300006: "Mu\xF1ecos_3"
+    21300008: "Mu\xF1ecos_4"
+    21300010: "Mu\xF1ecos_5"
+    21300012: "Mu\xF1ecos_6"
+    21300014: "Mu\xF1ecos_7"
+    21300016: "Mu\xF1ecos_8"
+    21300018: "Mu\xF1ecos_9"
+    21300020: "Mu\xF1ecos_10"
+    21300022: "Mu\xF1ecos_11"
+    21300024: "Mu\xF1ecos_12"
+    21300026: "Mu\xF1ecos_13"
+    21300028: "Mu\xF1ecos_14"
+    21300030: "Mu\xF1ecos_15"
+    21300032: "Mu\xF1ecos_16"
+    21300034: "Mu\xF1ecos_17"
+    21300036: "Mu\xF1ecos_18"
+    21300038: "Mu\xF1ecos_19"
+    21300040: "Mu\xF1ecos_20"
+    21300042: "Mu\xF1ecos_21"
+    21300044: "Mu\xF1ecos_22"
+    21300046: "Mu\xF1ecos_23"
+    21300048: "Mu\xF1ecos_24"
+    21300050: "Mu\xF1ecos_25"
+    21300052: "Mu\xF1ecos_26"
+    21300054: "Mu\xF1ecos_27"
+    21300056: "Mu\xF1ecos_28"
+    21300058: "Mu\xF1ecos_29"
+    21300060: "Mu\xF1ecos_30"
+    21300062: "Mu\xF1ecos_31"
+    21300064: "Mu\xF1ecos_32"
+    21300066: "Mu\xF1ecos_33"
+    21300068: "Mu\xF1ecos_34"
+    21300070: "Mu\xF1ecos_35"
+    21300072: "Mu\xF1ecos_36"
+    21300074: "Mu\xF1ecos_37"
+    21300076: "Mu\xF1ecos_38"
+    21300078: "Mu\xF1ecos_39"
+    21300080: "Mu\xF1ecos_40"
+    21300082: "Mu\xF1ecos_41"
+    21300084: "Mu\xF1ecos_42"
+    21300086: "Mu\xF1ecos_43"
+    21300088: "Mu\xF1ecos_44"
+    21300090: "Mu\xF1ecos_45"
+    21300092: "Mu\xF1ecos_46"
+    21300094: "Mu\xF1ecos_47"
+    21300096: "Mu\xF1ecos_48"
+    21300098: "Mu\xF1ecos_49"
+    21300100: "Mu\xF1ecos_50"
+    21300102: "Mu\xF1ecos_51"
+    21300104: "Mu\xF1ecos_52"
+    21300106: "Mu\xF1ecos_53"
+    21300108: "Mu\xF1ecos_54"
+    21300110: "Mu\xF1ecos_55"
+    21300112: "Mu\xF1ecos_56"
+    21300114: "Mu\xF1ecos_57"
+    21300116: "Mu\xF1ecos_58"
+    21300118: "Mu\xF1ecos_59"
+    21300120: "Mu\xF1ecos_60"
+    21300122: "Mu\xF1ecos_61"
+    21300124: "Mu\xF1ecos_62"
+    21300126: "Mu\xF1ecos_63"
+    21300128: "Mu\xF1ecos_64"
+    21300130: "Mu\xF1ecos_65"
+    21300132: "Mu\xF1ecos_66"
+    21300134: "Mu\xF1ecos_67"
+    21300136: "Mu\xF1ecos_68"
+    21300138: "Mu\xF1ecos_69"
+    21300140: "Mu\xF1ecos_70"
+    21300142: "Mu\xF1ecos_71"
+    21300144: "Mu\xF1ecos_72"
+    21300146: "Mu\xF1ecos_73"
+    21300148: "Mu\xF1ecos_74"
+    21300150: "Mu\xF1ecos_75"
+    21300152: "Mu\xF1ecos_76"
+    21300154: "Mu\xF1ecos_77"
+    21300156: "Mu\xF1ecos_78"
+    21300158: "Mu\xF1ecos_79"
+    21300160: "Mu\xF1ecos_80"
+    21300162: "Mu\xF1ecos_81"
+    21300164: "Mu\xF1ecos_82"
+    21300166: "Mu\xF1ecos_83"
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: "Mu\xF1ecos_0"
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 200
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mu\xF1ecos_1"
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 200
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mu\xF1ecos_2"
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 200
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mu\xF1ecos_3"
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 200
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mu\xF1ecos_4"
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 200
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mu\xF1ecos_5"
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 200
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mu\xF1ecos_6"
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 176
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mu\xF1ecos_7"
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 176
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mu\xF1ecos_8"
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 175
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mu\xF1ecos_9"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 174
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mu\xF1ecos_10"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 174
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mu\xF1ecos_11"
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 174
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mu\xF1ecos_12"
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 173
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mu\xF1ecos_13"
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 173
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mu\xF1ecos_14"
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 176
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mu\xF1ecos_15"
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 176
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mu\xF1ecos_16"
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 175
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mu\xF1ecos_17"
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 174
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mu\xF1ecos_18"
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 174
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mu\xF1ecos_19"
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 174
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mu\xF1ecos_20"
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 173
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mu\xF1ecos_21"
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 173
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mu\xF1ecos_22"
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 146
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mu\xF1ecos_23"
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 145
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mu\xF1ecos_24"
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 145
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mu\xF1ecos_25"
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 145
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mu\xF1ecos_26"
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 145
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mu\xF1ecos_27"
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 145
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mu\xF1ecos_28"
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 146
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mu\xF1ecos_29"
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 145
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mu\xF1ecos_30"
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 145
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mu\xF1ecos_31"
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 145
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mu\xF1ecos_32"
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 145
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mu\xF1ecos_33"
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 145
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mu\xF1ecos_34"
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 117
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mu\xF1ecos_35"
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 116
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mu\xF1ecos_36"
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 118
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mu\xF1ecos_37"
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 117
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mu\xF1ecos_38"
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 116
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mu\xF1ecos_39"
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 118
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mu\xF1ecos_40"
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 87
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mu\xF1ecos_41"
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 87
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mu\xF1ecos_42"
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 87
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mu\xF1ecos_43"
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 87
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mu\xF1ecos_44"
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 87
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mu\xF1ecos_45"
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 87
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mu\xF1ecos_46"
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 63
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mu\xF1ecos_47"
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 63
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mu\xF1ecos_48"
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 62
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mu\xF1ecos_49"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 61
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mu\xF1ecos_50"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 61
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mu\xF1ecos_51"
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 61
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mu\xF1ecos_52"
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 60
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mu\xF1ecos_53"
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 60
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mu\xF1ecos_54"
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 63
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mu\xF1ecos_55"
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 63
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mu\xF1ecos_56"
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 62
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mu\xF1ecos_57"
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 61
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mu\xF1ecos_58"
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 61
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mu\xF1ecos_59"
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 61
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mu\xF1ecos_60"
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 60
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mu\xF1ecos_61"
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 60
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mu\xF1ecos_62"
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 33
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mu\xF1ecos_63"
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 32
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mu\xF1ecos_64"
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 32
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mu\xF1ecos_65"
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 32
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mu\xF1ecos_66"
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 32
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mu\xF1ecos_67"
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 32
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mu\xF1ecos_68"
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 33
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mu\xF1ecos_69"
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 32
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mu\xF1ecos_70"
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 32
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mu\xF1ecos_71"
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 32
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mu\xF1ecos_72"
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 32
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mu\xF1ecos_73"
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 32
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mu\xF1ecos_74"
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 4
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mu\xF1ecos_75"
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 3
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mu\xF1ecos_76"
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 5
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mu\xF1ecos_77"
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 4
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mu\xF1ecos_78"
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 3
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mu\xF1ecos_79"
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 5
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mu\xF1ecos_80"
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 173
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mu\xF1ecos_81"
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 60
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mu\xF1ecos_82"
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 60
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mu\xF1ecos_83"
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 173
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
